@@ -16,3 +16,7 @@ rails db:migrate
 rails db:seed
 
 rails server
+
+ name: 'Admin',
+ email: 'admin@example.com',
+ password: 'password',
